@@ -23,9 +23,6 @@ This circuit has two inputs J & K and two outputs Qtt & Qtt’. The operation of
 
  
 Here, Qtt & Qt+1t+1 are present state & next state respectively. So, JK flip-flop can be used for one of these four functions such as Hold, Reset, Set & Complement of present state based on the input conditions, when positive transition of clock signal is applied. The following table shows the characteristic table of JK flip-flop. Present Inputs Present State Next State
- 
-![WhatsApp Image 2025-11-16 at 10 40 59 PM](https://github.com/user-attachments/assets/6cbdbd72-b9a0-451d-8b8d-9c945cd8f9fb)
-
 
 By using three variable K-Map, we can get the simplified expression for next state, Qt+1t+1. Three variable K-Map for next state, Qt+1t+1 is shown in the following figure.
  
@@ -48,10 +45,11 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 Developed by:NARENDRA KRISHNAN KS RegisterNumber:25008086
 
 **RTL LOGIC FOR FLIPFLOPS**
-![WhatsApp Image 2025-11-15 at 10 16 12 PM](https://github.com/user-attachments/assets/bcf8616e-c189-409e-8670-3dcb0b4178d7)
+![WhatsApp Image 2025-11-16 at 10 40 59 PM](https://github.com/user-attachments/assets/6cbdbd72-b9a0-451d-8b8d-9c945cd8f9fb)
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+
 ![WhatsApp Image 2025-11-16 at 10 40 17 PM](https://github.com/user-attachments/assets/6b3db4b7-06e3-49c6-ab4b-b3efbc08bd58)
 
 
