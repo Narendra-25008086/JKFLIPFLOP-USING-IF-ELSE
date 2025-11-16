@@ -45,7 +45,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 
 
-Developed by:NARENDRA KRISHNAM KS RegisterNumber:25008086
+Developed by:NARENDRA KRISHNAN KS RegisterNumber:25008086
 
 **RTL LOGIC FOR FLIPFLOPS**
 ![WhatsApp Image 2025-11-15 at 10 16 12 PM](https://github.com/user-attachments/assets/bcf8616e-c189-409e-8670-3dcb0b4178d7)
@@ -57,4 +57,6 @@ Developed by:NARENDRA KRISHNAM KS RegisterNumber:25008086
 
 
 **RESULTS**
+
+
 Thus the JK flipflop is implemented and verified.
